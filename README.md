@@ -3,7 +3,7 @@
 ### Introduction 🤝
 I am a Software Engineer specializing in JavaScript (particularly TypeScript and React, and previous experience with Vue and Node.js) with full-stack LAMP (Linux, Apache, MySQL, PHP) experience.
 
-Since 2020, I have designed, developed, and refined features for Cloud Manager, Linode/Akamai's user interface built with React and TypeScript that serves over 1 million users globally and enables the deployment and management of virtual machines (VMs) and other cloud infrastructure.
+Since 2020, I have designed, developed, and refined features for Cloud Manager, Linode/Akamai's user interface built with React and TypeScript that serves over 1 million users globally and enables the deployment and management of virtual machines (VMs) and other cloud infrastructure. My code contributions to the Cloud Manager repository up to early October 2022 can be viewed [here](https://github.com/linode/manager/pulls?q=is%3Apr+author%3ADevDW+is%3Aclosed), and my contributions since then can be viewed [here](https://github.com/linode/manager/pulls?q=is%3Apr+author%3Adwiley-akamai+is%3Aclosed).
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dajahiwiley/)
 
